@@ -94,6 +94,10 @@ public class App {
                 }
                 System.out.println(c);
             }
+            for (row = h; row > h/2; row--){
+                System.out.println(" ");
+            }
+            System.out.println(c);
         }
     }
     //todo Task 5
